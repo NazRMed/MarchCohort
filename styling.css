@@ -1,0 +1,10 @@
+body{
+    background-color: lightcoral;
+}
+
+h1{
+    font-family: cursive;
+    color: yellowgreen;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
